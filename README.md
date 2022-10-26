@@ -1,7 +1,7 @@
 # state_sync
 
 ```
-SNAP_RPC=http://65.108.66.34:24557
+SNAP_RPC="http://65.108.66.34:24557"
 Name_bin="hid-noded"
 Name_config_file=".hid-node"
 Name_service="hypersingd"
