@@ -23,6 +23,7 @@ sudo systemctl stop $Name_service && $Name_bin tendermint unsafe-reset-all --hom
 
 ```
 sed -i.bak -e  "s/^persistent_peers *=.*/persistent_peers = \"$peers\"/" $HOME/$Name_config_file/config/config.toml
+
 ```
 ```
 sed -i.bak -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \
