@@ -1,7 +1,7 @@
 # state_sync
 
 ```
-SNAP_RPC="https://rpc-hypersign.sr20de.xyz:443"
+SNAP_RPC="http://95.217.207.236:24557"
 Name_bin="hid-noded"
 Name_config_file=".hid-node"
 Name_service="hypersingd"
