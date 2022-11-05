@@ -5,7 +5,7 @@ SNAP_RPC="http://95.217.207.236:24557"
 Name_bin="hid-noded"
 Name_config_file=".hid-node"
 Name_service="hypersingd"
-peers="20e40949206d9d991274bfa388af4f77b7da0de1@65.108.66.34:24556"
+peers="55e8a3bc20328c23422e93d875db6dfd6d0adbf2@95.217.207.236:24556"
 ```
 
 ```
